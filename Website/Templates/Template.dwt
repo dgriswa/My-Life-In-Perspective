@@ -7,27 +7,22 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<link href="../styles/blue.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-<div class="primary-navigation">
-  <div class="nav-button"><a href="../index.html">Home</a></div>
-  <div class="nav-button"><a href="../who-am-i/index.html">Who Am I</a></div>
-  <div class="nav-button"><a href="../my-personal-brand/index.html">My Personal Brand</a></div>
-  <div class="nav-button"><a href="../my-college-life/index.html">My College Life</a></div>
-  <div class="nav-button"><a href="../my-career/index.html">My Career</a></div>
-  <div class="nav-button"><a href="../interviews/index.html">Interviews</a></div>
+<div class=”wrapper”>
+  <div class="navigation"> 
+  
+  <a href="../index.html" class="nav-button">Home</a> 
+  <a href="../who-am-i/index.html" class="nav-button">Who Am I</a>
+  <a href="../my-personal-brand/index.html" class="nav-button">My Personal Brand</a> <br>
+
+<a href="../my-college-life/index.html" class="nav-button">My College Life</a> 
+<a href="../my-career/index.html" class="nav-button">My Career</a>
+ <a href="../interviews/index.html" class="nav-button">Interviews</a> 
+ </div>
+  <div class =“content”> <!-- TemplateBeginEditable name="Content" -->This is placeholder text.<!-- TemplateEndEditable --> </div>
 </div>
-
-
-
-
-
-<table width="212">
-  <tr>
-    <td width="204"><!-- TemplateBeginEditable name="Content" -->This is placeholder text.<!-- TemplateEndEditable --></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
 </body>
 </html>
