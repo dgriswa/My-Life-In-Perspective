@@ -11,18 +11,18 @@
 </head>
 
 <body>
-<div class=”wrapper”>
+<div class="wrapper">
   <div class="navigation"> 
   
   <a href="../index.html" class="nav-button">Home</a> 
   <a href="../who-am-i/index.html" class="nav-button">Who Am I</a>
-  <a href="../my-personal-brand/index.html" class="nav-button">My Personal Brand</a> <br>
+  <a href="../my-personal-brand/index.html" class="nav-button">My Personal Brand</a>
 
 <a href="../my-college-life/index.html" class="nav-button">My College Life</a> 
 <a href="../my-career/index.html" class="nav-button">My Career</a>
  <a href="../interviews/index.html" class="nav-button">Interviews</a> 
  </div>
-  <div class =“content”> <!-- TemplateBeginEditable name="Content" -->This is placeholder text.<!-- TemplateEndEditable --> </div>
+  <div class ="content"> <!-- TemplateBeginEditable name="Content" -->This is placeholder text.<!-- TemplateEndEditable --> </div>
 </div>
 </body>
 </html>
